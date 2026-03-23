@@ -9,8 +9,6 @@ You can also find my publications on [Google Scholar](https://scholar.google.ca/
 
 ---
 
-## Peer-Reviewed Publications
-
 **Kamber, E.**, Busseri, M., & Mahy, C. E. V. (2026). Constructive episodic simulation, self-projection, and scene construction: Investigating the mechanisms of children's episodic thinking. *Cognition, 269*. [https://doi.org/10.1016/j.cognition.2025.106405](https://doi.org/10.1016/j.cognition.2025.106405)
 
 Rocca, M. R., **Kamber, E.**, Mazachowsky, T. R., & Mahy, C. E. V. (2026). Investigating the development and coherence of children's saving. *Journal of Experimental Child Psychology, 106359*. [https://doi.org/10.1016/j.jecp.2025.106359](https://doi.org/10.1016/j.jecp.2025.106359)
