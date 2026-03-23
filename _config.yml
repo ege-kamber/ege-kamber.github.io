@@ -1,6 +1,7 @@
 # Site Settings
 locale: "en-US"
 title: "Ege Kamber"
+minimal_mistakes_skin: "dark"
 title_separator: "-"
 name: &name "Ege Kamber"
 description: &description "Developmental Psychology | Postdoctoral Researcher at York University, Department of Psychology"
@@ -12,7 +13,7 @@ repository: "egekmbr/ege-kamber.github.io"
 author:
   name: "Ege Kamber"
   avatar: "profile.jpg"
-  bio: "I am a postdoctoral fellow at York University under the supervision of Dr. Thanujeni (Jeni) Pathman. I study how we remember past events and contemplate future possibilities; and how such thinking processes inform future-oriented decisions, particularly around saving, procrastination, and pro-environmental behaviour."
+  bio: "I am a postdoctoral fellow at York University"
   location: "Toronto, ON, Canada"
   employer: "York University"
   email: "ekamber@yorku.ca"
