@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+<style>
+.page__content { font-size: 1.1rem; }
+</style>
+
 You can also find my publications on [Google Scholar](https://scholar.google.ca/citations?user=hkEi5G0AAAAJ).
 
 ---
