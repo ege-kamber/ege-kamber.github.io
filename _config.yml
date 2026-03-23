@@ -13,14 +13,18 @@ repository: "egekmbr/ege-kamber.github.io"
 author:
   name: "Ege Kamber"
   avatar: "profile.jpg"
-  bio: "I am a postdoctoral fellow at York University"
+  bio: "I am a postdoctoral researcher at York University"
   location: "Toronto, ON, Canada"
   employer: "York University"
   email: "ekamber@yorku.ca"
   linkedin: "egekamber"
   googlescholar: "https://scholar.google.ca/citations?user=hkEi5G0AAAAJ"
-  orcid: "https://orcid.org/0000-0002-1365-8667"
+ orcid: "https://orcid.org/0000-0002-1365-8667"
   osf: "https://osf.io/3eysr/"
+  links:
+    - label: "OSF"
+      icon: "fas fa-fw fa-database"
+      url: "https://osf.io/3eysr/"
 
 # Navigation
 navigation:
